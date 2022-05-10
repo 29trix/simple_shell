@@ -1,6 +1,6 @@
 # Simple Shell
 
-## Simple Shell is a project for Alx Students. The project test everything we have learned about the C programming language and our skills for work as a team and planning for a long term project.
+Simple Shell is a project for Alx Students. The project test everything we have learned about the C programming language and our skills for work as a team and planning for a long term project.
 
 ## Description
 
@@ -77,4 +77,5 @@ _The simple shell has support for the following built-in commands
 ---
 ### AUthors
 Ojonuba Goodness Enyo-ojo
+
 Odefunke Odeleke
