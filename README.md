@@ -68,7 +68,7 @@ $ echo "non-interactive" | ./hsh
 $
 
 ### Built-ins
-_The simple shell has support for the following built-in commands
+The simple shell has support for the following built-in commands
 |Command | Definition|
 |--------|------------|
 |env 	 |Prints the environment
