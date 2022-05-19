@@ -1,5 +1,7 @@
 #ifndef SHELL_H
 #define SHELL_H
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -46,4 +48,12 @@ int _strcmp(char *s1, char *s2);
 void free_loop(char **arr);
 void free_list(list_p *head);
 char *_strncpy(char *dest, char *src, int n);
+
+/* cd.c */
+void cd_dot(data_shell *datash);
+void cd_to(data_shell *datash);
+void cd_previous(data_shell *datash);
+void cd_to_home(data_shell *datash);
+
+
 #endif /* SHELL_H*/
